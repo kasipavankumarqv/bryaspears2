@@ -47,7 +47,7 @@ y: The y coordinate for the collectable.
 gravity: OPTIONAL The gravitational pull on the collectable.
 bounce: OPTIONAL A factor effecting how much the collectable will bounce off platforms, etc.
 */
-createCollectable(type.steve, 200, 170, 6, 0.7);
+createCollectable(type.steve, 400, 270, 8, 0.7);
 
 type.db     //worth 10 points
 type.max    //worth 20 points
