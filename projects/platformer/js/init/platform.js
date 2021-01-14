@@ -36,10 +36,10 @@ y: The y coordinate for the platform.
 scaleX: OPTIONAL The scale factor on the x-axis, this value will stretch the platform in width.
 scaleY: OPTIONAL The scale factor on the y-axis, this value will stretch the platform in height.
 */
-  createPlatform(459,460);      
-  createPlatform(300,200,0.3)    
-  createPlatform(500,550,0.3,10) 
-  createPlatform(200,590)
+  createPlatform(445,200);       
+  createPlatform(500,550,0.1,10) 
+  createPlatform(100,580)
+  createPlatform(300,480)
   createPlatform(200,400)
 
         /*
